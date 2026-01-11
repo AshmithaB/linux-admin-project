@@ -1,17 +1,16 @@
 # Troubleshooting Scenarios
 
 ## Permission Denied Error
-Cause: Missing execute permission
-Fix: chmod +x script.sh
+Cause:Missing execute permission
+Fix:chmod +x script.sh
 
-## Disk Usage Increase
-Cause: Log files growing
-Fix: Identified using du and cleaned logs
+## SSH Service Not Found
+Cause:SSH server not installed on desktop OS.
+Fix:Installed openssh-server and enabled ssh service.
 
-## Service Not Running
-Cause: Service stopped
-Fix: systemctl restart service-name
+## Permission Denied Error
+Cause:Missing execute permission or incorrect script permissions.
+Fix:```bash
+chmod +x script.sh
+````
 
-## High CPU Usage
-Cause: Background process
-Fix: Identified using top and managed process
