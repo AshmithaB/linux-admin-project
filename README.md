@@ -21,6 +21,7 @@ It covers user management, permissions, services, automation, security basics, m
 ## Screenshots
 
 ### Backup Script Execution
-![Backup Script Execution](screenshots/Screenshot.png)
+![Backup Script Execution](linux-admin-project/screenshots/Screenshot.png)
+
 
 
