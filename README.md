@@ -18,4 +18,9 @@ It covers user management, permissions, services, automation, security basics, m
 - Disk and process monitoring
 - Git version control
 
-## Folder Structure
+## Screenshots
+
+### Backup Script Execution
+![Backup Script Execution](screenshots/Screenshot.png)
+
+
